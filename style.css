@@ -1,0 +1,20 @@
+:root {
+  font:
+    17px/1.6 system-ui,
+    sans-serif;
+  color: #202b35;
+  background: #fff;
+}
+main {
+  max-width: 680px;
+  margin: 64px auto;
+  padding: 0 24px;
+}
+h1 {
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+a {
+  color: #145ea8;
+  text-underline-offset: 3px;
+}
